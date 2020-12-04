@@ -1,3 +1,1 @@
-# Rest-API-nodeJS
-Rest API CRUD User, and Museum for MuseumVR project https://museumvr.netlify.app/
-with Node.js, express, Mongoose  and Mongo dB Atlas 
+REST API CRUD for User, Museum Using nodejs, monggose,express, and mongodb atlas for React museum vr project https://museumvr.netlify.app/
